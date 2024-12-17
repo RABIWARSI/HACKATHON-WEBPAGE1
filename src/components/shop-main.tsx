@@ -10,7 +10,7 @@ import {
 } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 
-import mainsofa from "/public/mainsofa.png"
+import mainsofa from "/ Npublic/mainsofa.png"
 import mainchairs from "/public/mainchairs.png"
 import maindyning from "/public/maindyning.png"
 import maintable from "/public/maintable.png"
